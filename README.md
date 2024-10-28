@@ -2,8 +2,8 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Student
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on insta @King_Of_Fondness
-- 📫 How to reach me on telegram <a herf="King">https://t.me/BalapriyanBalusamy<a>
+- 📫 How to reach me on insta @_.balapriyan._
+- 📫 How to reach me on telegram <a herf="King">https://t.me/BalapriyanB<a>
 
 <!---
 BalaPriyan/BalaPriyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
