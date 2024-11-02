@@ -15,7 +15,8 @@
 </p>
 
 
-<h1>⚙Technologies Used</h1>
+<h1>⚙ Technologies I Know</h1>
+
 <p>
 <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -68,5 +69,5 @@
 
 <h1>Connect With Me On </h1>
 <p>
-<a href="https://instagram/_.balapriyan._"><img alt="insta" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Instagram.svg" width="48"></a>
+<a href="https://instagram.com/_.balapriyan._"><img alt="insta" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Instagram.svg" width="48"></a>
 </p>
