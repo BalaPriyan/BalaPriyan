@@ -69,5 +69,5 @@
 
 <h1>Connect With Me On </h1>
 <p>
-<a href="https://instagram.com/_.balapriyan._"><img alt="insta" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Instagram.svg" width="48"></a>
+<a href="https://instagram.com/balapriyan_"><img alt="insta" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Instagram.svg" width="48"></a>
 </p>
